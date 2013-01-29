@@ -1,4 +1,0 @@
-mag-ashu
-========
-
-ashu data
